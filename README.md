@@ -1,2 +1,2 @@
 # Selenium Project
-![GitHub Header Banner](./assets/Selenium.png)
+![GitHub Header Banner](./assets/Selenium.jpg)
